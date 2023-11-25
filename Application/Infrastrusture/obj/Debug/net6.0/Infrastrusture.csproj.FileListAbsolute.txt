@@ -1,0 +1,17 @@
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Infrastrusture.deps.json
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Infrastrusture.dll
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Infrastrusture.pdb
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Application.dll
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Domain.dll
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Application.pdb
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\bin\Debug\net6.0\Domain.pdb
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.csproj.AssemblyReference.cache
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.AssemblyInfoInputs.cache
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.AssemblyInfo.cs
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.csproj.CoreCompileInputs.cache
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.csproj.CopyComplete
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.dll
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\refint\Infrastrusture.dll
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\Infrastrusture.pdb
+D:\CURSOS\CURSO.NET\ArquitecturaExa\Application\Infrastrusture\obj\Debug\net6.0\ref\Infrastrusture.dll
