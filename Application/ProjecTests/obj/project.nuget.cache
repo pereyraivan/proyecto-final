@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JU/P0UktqkUqajcKyhTfU+Ve9OmlvqR+Er9nQKsEjo5bjANmKdfIJuU9CMIKM6N/asW+Hm1uHuY62REcXcgbTQ==",
+  "dgSpecHash": "oqdlcnrtDZ5XNBG8oeP/SFgOGPoytzanOLJz859+MRL4QYlW2eqG+QKj9iI07WlHHFqxGTFZ3RK0j3LUoZkntw==",
   "success": true,
-  "projectFilePath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\ProjecTests\\ProjecTests.csproj",
+  "projectFilePath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\ProjecTests\\ProjecTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\perey\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\perey\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj": {}
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj": {
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj",
+        "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\perey\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\obj\\",
+        "outputPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perey\\AppData\\Roaming\\NuGet\\NuGet.Config",

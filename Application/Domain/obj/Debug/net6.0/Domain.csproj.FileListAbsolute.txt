@@ -22,3 +22,15 @@ D:\CURSOS\CURSO.NET\TrabajoFinal\Application\Domain\obj\Debug\net6.0\Domain.dll
 D:\CURSOS\CURSO.NET\TrabajoFinal\Application\Domain\obj\Debug\net6.0\refint\Domain.dll
 D:\CURSOS\CURSO.NET\TrabajoFinal\Application\Domain\obj\Debug\net6.0\Domain.pdb
 D:\CURSOS\CURSO.NET\TrabajoFinal\Application\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\bin\Debug\net6.0\Domain.dll
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\bin\Debug\net6.0\Domain.pdb
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.dll
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\Domain.pdb
+D:\CURSOS\proyecto-final\proyecto-final\Application\Domain\obj\Debug\net6.0\ref\Domain.dll

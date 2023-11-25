@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qfNYPlfV/wd8Vp1HF2f5IrekZ10cMaylV+fsRfzkzglJ2xEcMwNXErJluPmnGJyAY8Z2IEXZyq49JbGgdmBHA==",
+  "dgSpecHash": "Pk+VSBzoeXLq1TTweduMn0o5K94KgyZGJnkWSFv9Hv1eiYGfAUs2qZ7TrbF7+rKhb6Cq3iS8ovHjm6d8vK9b8w==",
   "success": true,
-  "projectFilePath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

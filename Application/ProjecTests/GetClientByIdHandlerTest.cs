@@ -5,12 +5,13 @@ using AutoMapper;
 using Domain.Interfaces;
 using FluentValidation;
 using Moq;
+using NUnit.Framework;
 using Xunit;
 
 namespace ProjecTests
 {
 
-    public class GetClientHandlerTest
+    public class GetClientByIdHandlerTest
     {
 
         private readonly Mock<IMapper> _mapper;
@@ -18,7 +19,7 @@ namespace ProjecTests
         private readonly Mock<IValidator<GetClientByIdRequest>> _validator;
 
         private GetClientByIdHandler handler;
-        public GetClientHandlerTest()
+        public GetClientByIdHandlerTest()
         {
             var result = new FluentValidation.Results.ValidationResult();
             _validator = new Mock<IValidator<GetClientByIdRequest>>();
@@ -29,14 +30,14 @@ namespace ProjecTests
             _clientRepository = new Mock<IClientRepository>();
             _clientRepository.Setup(repository => repository.GetClients());
 
-            
+
 
             handler = new GetClientByIdHandler(_clientRepository.Object, _validator.Object);
         }
         [Fact]
-        public async void validoResponseValido()
+        public void valido_ResponseValido()
         {
-            await handler.Handle(new GetClientByIdRequest(), CancellationToken.None);
+            Assert.True(false, "Esta prueba debería fallar");
         }
     }
 }

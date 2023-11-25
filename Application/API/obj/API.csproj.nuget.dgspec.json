@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\API\\API.csproj": {}
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\API\\API.csproj": {
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\API\\API.csproj",
+        "projectUniqueName": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\API\\API.csproj",
+        "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\API\\API.csproj",
         "packagesPath": "C:\\Users\\perey\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\API\\obj\\",
+        "outputPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj": {
-                "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj"
+              "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj": {
+                "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj"
               },
-              "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Infrastrusture\\Infrastructure.csproj": {
-                "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Infrastrusture\\Infrastructure.csproj"
+              "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Infrastrusture\\Infrastructure.csproj": {
+                "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Infrastrusture\\Infrastructure.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj": {
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj",
+        "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\perey\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\obj\\",
+        "outputPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj"
+              "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj": {
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\Domain.csproj",
+        "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\perey\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Domain\\obj\\",
+        "outputPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,14 +212,14 @@
         }
       }
     },
-    "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Infrastrusture\\Infrastructure.csproj": {
+    "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Infrastrusture\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Infrastrusture\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Infrastrusture\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Infrastrusture\\Infrastructure.csproj",
+        "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Infrastrusture\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\perey\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Infrastrusture\\obj\\",
+        "outputPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Infrastrusture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,8 +236,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj": {
-                "projectPath": "D:\\CURSOS\\CURSO.NET\\TrabajoFinal\\Application\\Application\\Application.csproj"
+              "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj": {
+                "projectPath": "D:\\CURSOS\\proyecto-final\\proyecto-final\\Application\\Application\\Application.csproj"
               }
             }
           }
